@@ -7,4 +7,4 @@ Prototype of Hotel Reservation Desktop App. Programmed in Java on Netbeans with 
 
 <img src="https://raw.githubusercontent.com/edityomurti/Hotel-Reservation-Netbeans-MySQL/master/o3.png" width="300">
 
-<img src="https://raw.githubusercontent.com/edityomurti/Hotel-Reservation-Netbeans-MySQL/master/o3.png" width="300">
+<img src="https://raw.githubusercontent.com/edityomurti/Hotel-Reservation-Netbeans-MySQL/master/o4.png" width="300">
